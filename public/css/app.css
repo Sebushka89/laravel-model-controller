@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+
+.container .card {
+  width: 25%;
+  padding: 13px;
+  text-align: center;
+}
+
+.container .card img {
+  width: 100%;
+}
+
